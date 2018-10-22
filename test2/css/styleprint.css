@@ -1,0 +1,36 @@
+
+
+
+.notaProdotto {display:none;}
+.rigaDx{color: #000000;background-color: #FFFFFF; }
+.cornice {background-color: #ffffff;border:none;}
+
+.menuBox {display:none;}
+.menuStatico {display:none;}
+.menuDinamico {display:none;}
+input, textarea, select{color: #000000;border: none; max-width:600px ;}
+body {font-family: Verdana, Helvetica, sans-serif;font-size: 8pt;color: #000000;background-color: #ffffff;}
+
+
+
+
+.gestioneTit                    {color: #000000;}
+.gestioneTit1                   {color: #000000;}
+.gestioneTitGruppo              {color: #000000;}
+.gestioneBox                    {color: #000000;}
+.gestioneTour                   {color: #000000;}
+.gestioneDayTit                 {color: #000000;}
+.gestioneDayTitGiorno           {color: #000000;}
+.gestioneGuides                 {color: #000000;}
+.gestioneGuidesTit              {color: #000000;font-size:8px;color: #AAAAAA;}
+.gestioneHeadset                {color: #000000;}
+.gestioneHeadsetTit             {color: #000000;font-size:8px;color: #AAAAAA;}
+.gestioneBus                    {color: #000000;}
+.gestioneBusTit                 {color: #000000;font-size:8px;color: #AAAAAA;}
+.gestionePanelTour              {color: #000000;border: 1px solid #AAAAAA;}
+.gestioneGrigliaTour            {color: #000000;border-style:none; }
+.gestioneGrigliaTour tr td      {color: #000000;border-style:none; }
+.gestioneGrigliaTour_riga       {color: #000000; border-style:none;}
+.gestioneGrigliaTour_alt        {color: #000000;}
+.gestioneGrigliaTour_head th    {color: #AAAAAA;border-style:none; font-size:8px}
+.gestioneGrigliaTour_foot       {color: #000000;}

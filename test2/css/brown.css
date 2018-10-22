@@ -1,0 +1,226 @@
+
+.menuBox
+{
+    background-color: #663300;
+    border-right: #CC9966 1px solid;
+    border-top: #CC9966 1px solid;
+    border-left: #CC9966 1px solid;
+    color:#ffffff;
+    width: auto;
+ }
+ 
+ .menuNav
+{
+    background-color: #954A00;
+    border-right: #CC9966 1px solid;
+    border-top: #CC9966 1px solid;
+    border-left: #CC9966 1px solid;
+    border-bottom: #CC9966 1px solid;
+     margin-bottom: 0px;
+    color: #ffffff;
+    min-height: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+ .menuNav a
+{
+    color:Yellow;
+}
+
+.menuDinamico
+{
+    background-color: #CC9966;
+    border-right: #ff0066 1px solid;
+    border-left: #ff0066 1px solid;
+    border-bottom: #ff0066 1px solid;
+    border-color: #663300;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 5px;
+    color: #663300; /*
+
+
+
+
+filter: alpha(Opacity=75);opacity:0.75;*/
+}
+
+.menuStatico
+{
+    border-right: #CC9966 1px solid;
+    border-color: #CC9966;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 5px;
+    color:#ffffff;
+}
+
+.add
+{
+    background-image: url(../images/bck1.png);
+    background-color: #ffffff;
+    color: #663300;
+    padding: 10px 10px 10px 10px;
+}
+
+.rigaSx
+{
+    background-image: url(../images/bck1.png);
+    background-color: #ffffff;
+    color: #663300;
+    padding: 10px 10px 10px 10px;
+}
+.rigaDx
+{
+    color: #663300;
+    background-color: #ffffff;
+    background-image: url(../images/bck2.png);
+    
+}
+
+
+
+.cornice1
+{
+    color: #663300;
+    background-color: #FFC488;
+    border: 1px solid #663300;
+}
+
+
+.menuStatico a:link           {color:#FFCA95;text-decoration:none;}
+.menuStatico a:visited        {color:#FFCA95;text-decoration:none;}
+.menuStatico a:hover          {color:#FFCA95;text-decoration:none;}
+.menuStatico a:active         {color:#FFCA95;text-decoration:none;}
+
+.menuDinamico a:link           {color:#663300;text-decoration:none;}
+.menuDinamico a:visited        {color:#663300;text-decoration:none;}
+.menuDinamico a:hover          {color:#663300;text-decoration:none;}
+.menuStatico a:active         {color:#663300;text-decoration:none;}
+
+
+
+
+
+
+.gestioneTable
+{
+    background-color: #FFE2A6;
+    border: 1px solid #663300;
+    margin: 0 auto;
+}
+.gestioneTit
+{
+    background-color: #663300;
+    color: #FFFF99;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+}
+.gestioneTit1
+{
+    background-color: #663300;
+    color: #996633;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 7pt;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+.gestioneTitGruppo
+{
+    color: #996633;
+    font-size: 10px;
+}
+.gestioneBox
+{
+    background-color: #FFCD66;
+   border-color:#c5c5c5
+}
+.gestioneTour
+{
+    color: #663300;
+    font-weight: bold;
+    text-align: left;
+}
+.gestioneDayTit
+{
+    background-color: #422100;
+    color: #FFFFCC;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    vertical-align: middle;
+    font-weight: 700;
+    text-align: left;
+    padding: 8px 0px 8px 8px;
+}
+.gestioneDayTitGiorno       {background-color: #3E3E3E;color: #FFFFCC;font-family: Verdana, Helvetica, sans-serif;font-size: 10pt;font-weight: bold;vertical-align: middle;text-align:center; padding:8px 0px 8px 0px;}
+.gestioneGuides
+{
+    background-color: #FFD275;
+    color: #663300;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 7pt;
+}
+.gestioneGuidesTit
+{
+    background-color: #FFD275;
+    color: #FFA851;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 7pt;
+    font-weight: bold;
+}
+.gestioneHeadset
+{
+    background-color: #FFD275;
+    color: #663300;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 7pt;
+}
+.gestioneHeadsetTit
+{
+    background-color: #FFD275;
+    color: #FFA851;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 7pt;
+    font-weight: bold;
+}
+.gestioneBus                {color: #000066;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt; }
+.gestioneBusTit             {color: #FFA851;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestioneNote               {background-color: #FFD275;color: #663300;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt; }
+.gestioneNoteTit            {background-color: #FFD275;color: #FFA851;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+
+.gestionePanelTour
+{
+    margin-top: 20px;
+    color: #663300;
+    background-color: #FFE2A6;
+    border: 1px solid #663300;
+}
+.gestioneGrigliaTour        {background-color: Transparent;border-color:#E7E7FF;border-style:solid;border-width:1px;font-family:Verdana;font-size:8pt;line-height:20px;}
+.gestioneGrigliaTour_riga
+{
+    background-color: #FFDB91;
+    color: #422100;
+    line-height: 25px;
+}
+.gestioneGrigliaTour_alt
+{
+    background-color: #FFEECA;
+    color: #422100;
+    line-height: 25px;
+}
+.gestioneGrigliaTour_head
+{
+    font-size: 7pt;
+    color: #884400;
+    font-weight: bold;
+    background-color: #B35900;
+    height: 10px;
+}
+.gestioneGrigliaTour_foot   {background-color:#C0C0C0;}
+.gestioneNotaEliminata      {text-decoration:line-through}

@@ -1,0 +1,125 @@
+
+
+.menuBox
+{
+    background-color: #CD5C5C;
+    border-right: #999999 1px solid;
+    border-top: #999999 1px solid;
+    border-left: #999999 1px solid;
+    color:#ffffff;
+    width: auto;
+ }
+ 
+ .menuNav
+{
+    background-color: #D98484;
+    border-right: #999999 1px solid;
+    border-top: #999999 1px solid;
+    border-left: #999999 1px solid;
+    border-bottom: #999999 1px solid;
+     margin-bottom: 0px;
+    color: #ffffff;
+    min-height: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+ .menuNav a
+{
+    color:White;
+}
+.menuDinamico
+{
+    background-color: #CD5C5C;
+    border-right: #ff0066 1px solid;
+    border-left: #ff0066 1px solid;
+    border-bottom: #ff0066 1px solid;
+    border-color: #999999;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 5px;
+    color:#ffffff;
+    /*filter: alpha(Opacity=75);opacity:0.75;*/
+}
+
+.menuStatico
+{
+    border-right: #ff0066 1px solid;
+    border-color: #999999;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 5px;
+    color:#ffffff;
+}
+
+.add
+{
+    background-color: #D78282;
+    color: #FFFFCC;
+    padding: 10px 10px 10px 10px;
+}
+
+.rigaSx
+{
+    background-color: #D78282;
+    color: #FFFFCC;
+    padding: 10px 10px 10px 10px;
+}
+
+.rigaDx
+{
+    color: #003399;
+    background-color: #F8E7E7;
+}
+
+
+
+.cornice1
+{
+    color: #003399;
+    background-color: #EEC8C8;
+    border: solid 1px #CD5C5C;
+}
+
+.menuStatico a:link           {color:#EEC8C8;text-decoration:none;}
+.menuStatico a:visited        {color:#EEC8C8;text-decoration:none;}
+.menuStatico a:hover          {color:#ffff00;text-decoration:none;}
+.menuStatico a:active         {color:#EEC8C8;text-decoration:none;}
+
+.menuDinamico a:link           {color:#EEC8C8;text-decoration:none;}
+.menuDinamico a:visited        {color:#EEC8C8;text-decoration:none;}
+.menuDinamico a:hover          {color:#ffff00;text-decoration:none;}
+.menuStatico a:active         {color:#EEC8C8;text-decoration:none;}
+
+
+
+
+
+
+.gestioneTable              {background-color: #F5E0E1;border: solid 1px #CD5C5C;margin: 0 auto;}
+.gestioneTit                {background-color: #CD5C5C;color: #ffffff;font-family: Verdana, Helvetica, sans-serif;font-size: 8pt;font-weight: bold;padding: 5px 5px 5px 5px;}
+.gestioneTit1               {background-color: #CD5C5C;color: #D7D7D7;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;padding: 5px 5px 5px 5px;text-align: center;}
+.gestioneTitGruppo          {color: #999999; font-size: 10px;}
+.gestioneBox                {background-color: #F7E6E6;border-color:#c5c5c5}
+.gestioneTour               {color: #002DB3;font-weight: bold;text-align: left;}
+.gestioneDayTit             {background-color: #D78588;    color: #FFFFCC;    font-family: Verdana, Helvetica, sans-serif;    font-size: 10pt;    font-weight: bold;    vertical-align: middle;    font-weight: 700;    text-align: left;    padding: 8px 0px 8px 8px;}
+.gestioneDayTitGiorno       {background-color: #3E3E3E;color: #FFFFCC;font-family: Verdana, Helvetica, sans-serif;font-size: 10pt;font-weight: bold;vertical-align: middle;text-align:center; padding:8px 0px 8px 0px;}
+.gestioneGuides             {background-color: #F3E0E7;    color: #CD5C5C;    font-family: Verdana, Helvetica, sans-serif;    font-size: 7pt;}
+.gestioneGuidesTit          {background-color: #F3E0E7;color: #CD5C5C;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestioneHeadset            {background-color: #F3E0E7;color: #CD5C5C;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;  }
+.gestioneHeadsetTit         {background-color: #F3E0E7;color: #CD5C5C;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestioneBus                {color: #CD5C5C;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt; }
+.gestioneBusTit             {color: #CD5C5C;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestioneNote               {background-color: #F3E0E7;color: #CD5C5C;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt; }
+.gestioneNoteTit            {background-color: #F3E0E7;color: #CD5C5C;font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+
+.gestionePanelTour          {margin-top: 20px;color: #CD5C5C;background-color: #F5E0E1;border: solid 1px #CD5C5C;}
+.gestioneGrigliaTour        {background-color: Transparent;border-color:#E7E7FF;border-style:solid;border-width:1px;font-family:Verdana;font-size:8pt;line-height:20px;}
+.gestioneGrigliaTour_riga   {background-color: #F5E0E1;color: #CD5C5C;line-height: 25px;}
+.gestioneGrigliaTour_alt    {background-color: #F7F7F7;color:#CD5C5C;line-height:25px;}
+.gestioneGrigliaTour_head   {font-size: 7pt;color: #CD5C5C;font-weight: bold;background-color: #E4A7A7;height: 10px;}
+.gestioneGrigliaTour_foot   {background-color:#E4A7A7;}
+.gestioneNotaEliminata      {text-decoration:line-through}

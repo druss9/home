@@ -1,0 +1,297 @@
+body
+{
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 8pt;
+    color: #333333;
+    background-color: #ffffff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 2px;
+    margin-left: 0px;
+}
+input,  select      {border: 1px solid #a9a9a9;font-family: Verdana, Helvetica, sans-serif;    font-size: 8pt;    color: #000066;}
+textarea            {font-family: Verdana, Helvetica, sans-serif;font-size: 8pt;color: #000066;border-right: #a9a9a9 1px solid;border-top: #a9a9a9 1px solid;border-left: #a9a9a9 1px solid;border-bottom: #a9a9a9 1px solid;min-height:130px;}
+
+a:link              {color:#636257;text-decoration:none;}
+a:visited           {color:#636257;text-decoration:none;}
+a:hover             {color:#636257;text-decoration:underline;}
+a:active            {color:#636257;text-decoration:none;}
+
+th a:link           {color:#f5f5f5;text-decoration:none;}
+th a:visited        {color:#f5f5f5;text-decoration:none;}
+th a:hover          {color:#ffff00;text-decoration:none;}
+th a:active         {color:#f5f5f5;text-decoration:none;}
+
+
+
+
+
+
+
+/* A */
+.alert              {background-color:Red;color:White;font-weight:bold; padding:1px 3px 1px 3px}
+.add                {padding: 10px 10px 10px 10px;}
+.alt1               {}
+
+
+
+
+/* B */
+.bigSelect          {font-size: large;font-weight: bold;}
+.bodyDX             {padding:10px 10px 10px 20px;}
+.bodySX             {padding:10px 10px 10px 10px;width:160px;}
+.bookingDeleted     {background-color: #FF7C5B;color: #FFF0F0;border-bottom:1px solid #f5f5f5}
+.bordoChk           {border-style:solid;border-color:Gray;border-width:1pt;}
+.bordoBot           {border-bottom:solid 1px darkgray}
+.bordoTop           {border-top:dotted 1px darkgray}
+.bordoBotSx         {border-bottom:solid 1px darkgray;border-left:solid 1px darkgray}
+.bordoBotDx         {border-bottom:solid 1px darkgray;border-right:solid 1px darkgray}
+.bordoSopra         {border-top:solid 1px darkgray}
+.bordoDx            {border-right:solid 1px darkgray}
+.buttontxt          {font-family:Verdana, Helvetica, sans-serif;font-size:9pt;color:#636257;text-align:center;}
+.blackdates         {background-color: #23484b;font-variant: normal;color: #ffffff;font-weight: normal;font-size: 11px;font-family: Verdana, Arial;}
+.btn                {text-align: center;width: 142px;height:20px;padding-top:3px;background-image:url('../images/paginaAdmin_02.jpg');font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-variant: small-caps;color: #000066;}
+.btnBack            {text-align: center;width: 142px;height:20px;padding-top:3px;background-image:url('../images/paginaAdmin1_08.jpg');font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-variant: small-caps;color: #000066;}
+.btnRed             {border-right: #ff0066 1px dotted;border-top: #ff0066 1px dotted;font-size: 12pt;vertical-align: middle;border-left: #ff0066 1px dotted;color: #ff0000;border-bottom: #ff0066 1px dotted;font-family: Verdana, Arial;background-color: #ffffff;text-align: center;font-variant: small-caps;width: 140px;font-weight: bold;}
+.btnSelected        {border-right: #3366cc 1px dotted;border-top: #3366cc 1px dotted;font-size: 10pt;vertical-align: middle;border-left: #3366cc 1px dotted;color: #ffffff;background-color: #0033ff;border-bottom: #3366cc 1px dotted;font-family: Verdana, Arial;font-weight:bold;text-align: center;font-variant: small-caps;width: 140px;}
+.boxVoucher         {width: 12px;height: 12px;border: 1px solid #CCCCCC;padding: 2px 2px 2px 2px;}
+
+
+
+
+
+
+/* C */
+.corniceLogin       {background-color: #E4E4E4;border-right: #ff0066 1px solid;border-top: #ff0066 1px solid;border-left: #ff0066 1px solid;border-bottom: #ff0066 1px solid;filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=   '#dcdcdc' , EndColorStr= '#ffffff' );border-color: #000000;}
+.cornice            {font: Verdana, Helvetica, sans-serif;font-size: 8pt;background-color: #dcdcdc;border: solid 1px #333333;}
+.config             {text-align: center;font-variant: small-caps;width: 142px;height:20px;padding-top:3px;font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #000066;background-image:url('../images/paginaAdmin_05.jpg');}
+.confermato         {background-color: #66cc66;color: #ffffff;border-right: #ffffff 1px solid;border-top: #ffffff 1px solid;border-left: #ffffff 1px solid;border-bottom: #ffffff 1px solid;}
+.centered           {position: absolute;top: 50%;left: 50%;margin-top: -25%;margin-left: -25%;} 
+.conNotaCredito     {background-color: #dcdcdc;color: #696969;text-decoration: underline;border-bottom:1px solid #f5f5f5}
+
+
+
+
+
+
+/* D */
+
+.daSalvare          {color: #FFCC00;font-weight: bold;}
+.disabled           {background-color: #C0C0C0;color: #333333;}
+.dayUnav            {background-color:Red; color:White}
+
+
+.dataviewHeader     {background-color: #3E3E3E;color: #ffffff;font-weight: bold;text-align: left;}
+.dataviewHeader1    {background-color: #0066FF;color: #ffffff;text-align: left;}
+.dataview           {background-color: white;border-color:#E7E7FF;border-style:solid;border-width:1px;font-family:Verdana;font-size:8pt;line-height:20px;}
+.dataviewFooter     {background-color: #3E3E3E;color:#ffffff;}
+.dataviewRow        {background-color: #dcdcdc;color: #000000;line-height:25px;}
+.dataviewAlt        {background-color: #F7F7F7;color:#666633;line-height:25px;}
+.dataviewSel        {background-color: #738A9C;color:#F7F7F7;font-weight:bold;line-height:25px;}
+.dataviewPager      {background-color: #E7E7FF;color:#4A3C8C;text-align:center;}
+.dataviewLog        {background-color: white;border-color: #E7E7FF;border-style: solid;border-width: 1px;font-family: Verdana;font-size: 8pt;}
+.dataviewHeaderLog  {background-color: #666666;color: #ffffff;font-weight: bold;text-align: left;font-size: 10px;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #808080;}
+.dataviewFooterLog  {background-color: #E6E6E6;text-align: right;font-size: 10px;border-top-style: solid;border-top-width: 1px;border-top-color: #808080;}
+.dataviewRowLog     {background-color: #FFFFFF;color: #333333;font-size: 10px;}
+.dataviewAltLog     {background-color: #f5f5f5;color: #333333;font-size: 10px;}
+.dataviewSelLog     {background-color: #738A9C;color:#F7F7F7;font-weight:bold;line-height:25px;}
+.dataviewPagerLog   {background-color: #E7E7FF;color:#4A3C8C;text-align:right;}
+.dataviewPagerLog   {background-color: #E7E7FF;color:#4A3C8C;text-align:right;}
+
+.dataReportHeader          {background-color: #FF8C00; color:#000000; text-align:center; font-weight:bold; border-color:White; border:1px solid white}
+.dataReportHeader a:link   {color:#000000;}
+
+.dataReportHeaderAlt       {background-color: #4169E1; color:#FFFFFF; text-align:center; font-weight:bold; border-color:White; border:1px solid white}
+.dataReportRowMain         {background-color: #FFE4B5; color:#000000; text-align:center; border:1px solid white}
+.dataReportRowAlt          {background-color: #FFFAF0; color:#000000; text-align:center; border:1px solid white}
+.dataReportRowSecond       {background-color: #ADD8E6; color:#000000; text-align:center; border:1px solid white}
+.dataReportRowSecondAlt    {background-color: #E0FFFF; color:#000000; text-align:center; border:1px solid white}
+.dataReportFooter      {background-color: #F5F5F5; color:#000000; text-align:center; border:1px solid white}
+
+
+.div_main           {margin-left:10px; margin-right:10px; min-height:600px; background-color:#ffffff}
+
+
+
+
+
+
+/* E */
+.evidenza           {font-family:Verdana, Helvetica, sans-serif;font-size:8pt;font-weight:bold;}
+.errore             {color: red;}
+.eliminato          {background-color: #dcdcdc;color: #696969;text-decoration: line-through;}
+.emailPredisposta   {background-color: #00B75B;}
+
+
+
+
+/* F */
+.finito             {text-decoration: line-through;background-color:Silver;color:gray;}
+.footertxt          {font-family:Verdana, Helvetica, sans-serif;font-size:8pt;color:#636257;text-align:center;}
+.form               {font-family:Verdana, Helvetica, sans-serif;font-size:11px;height:18px;border:1px solid #3A4651;background-color: #E0E0E0;color:#000000;}
+.fatturaProcessato  {background-color: #66cc66;color: #006633;}
+.faccine img        {width:17px; height:17px; margin-right:2px}
+
+
+/* G */
+.gestioneTable              {margin: 0 auto;}
+.gestioneTit                {font-family: Verdana, Helvetica, sans-serif;font-size: 8pt;font-weight: bold;padding: 5px 5px 5px 5px;}
+.gestioneTit1               {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;padding: 5px 5px 5px 5px;text-align: center;}
+.gestioneBox                {vertical-align: top;text-align: center;font-size: 10px;border-width: 1px; border-style:solid;}
+.gestioneTour               {font-weight: bold;text-align: left;}
+.gestioneDayTit             {font-family: Verdana, Helvetica, sans-serif;font-size: 10pt;font-weight: bold;vertical-align: middle;font-weight: 700;text-align: left;padding: 8px 0px 8px 8px;}
+.gestioneDayTitGiorno       {font-family: Verdana, Helvetica, sans-serif;font-size: 10pt;font-weight: bold;vertical-align: middle;text-align:center; padding:8px 0px 8px 0px;}
+.gestioneGuides             {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;}
+.gestioneGuidesTit          {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestioneHeadset            {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;}
+.gestioneHeadsetTit         {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestioneTitGruppo          {font-size: 10px;}
+.gestioneBus                {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt; }
+.gestioneBusTit             {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestioneNote               {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt; }
+.gestioneNoteTit            {font-family: Verdana, Helvetica, sans-serif;font-size: 7pt;font-weight: bold;}
+.gestionePanelTour          {margin-top: 20px;}
+.gestioneGrigliaTour        {border-style:solid;border-width:1px;font-family:Verdana;font-size:8pt;line-height:20px;}
+.gestioneGrigliaTour_riga   {line-height: 25px;}
+.gestioneGrigliaTour_alt    {line-height: 25px;}
+.gestioneGrigliaTour_head   {font-size: 7pt;font-weight: bold;height: 10px;}
+.gestioneGrigliaTour_foot   {}
+.gestioneNotaEliminata      {text-decoration:line-through}
+.guidePacchetto             {color: #003366;font-weight: bold;}
+
+
+
+
+
+
+/* H */
+.home               {text-align: center;width: 114px;height:20px;padding-top:5px;background-image:url('../images/paginaAdmin_08.jpg');font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-variant: small-caps;color: #000066;}
+.headertxt          {font-family:Verdana, Helvetica, sans-serif;font-size:7pt;color:#636257;font-weight:bold;text-align:right;}
+.hidden             {display:none;} 
+.homePageBox        {border-left: #999999 1px solid;border-bottom: #999999 1px solid;margin-bottom: 10px;min-height: 0px;padding-top: 5px;padding-bottom: 5px;padding-left: 5px;}
+
+
+/* L */
+.leaf               {background-color: #d4d9da;}
+.letto              {color: #ffffff;background-color: #ada9a9; }
+.legenda            {border: 1px solid #666666;background-color: #F2F2F2;}
+
+
+
+
+
+
+/* M */
+.modalBackground    {background-color:Gray;filter:alpha(opacity=70);opacity:0.7;}
+.menuNavNormal      {width:auto;}
+.menuNavBig         {margin-top:15px;width:auto;}
+.menuNavBigger      {margin-top:25px;width:auto;}
+.menuNavBottom      {position:fixed; bottom:0px; margin-bottom:0px;padding-bottom: 0px;width:98%;}
+.mainBody           {margin-bottom:50px; margin-top:5px}
+
+
+.menuBox            {width: auto;}
+.menuStatico        {padding-top: 5px;padding-bottom: 5px;padding-left: 2px;padding-right: 5px;}
+.menuNav            {margin-bottom: 0px;min-height: 0px;padding-top: 5px;padding-bottom: 5px;padding-left: 5px;}
+.menuDinamico       {padding-top: 5px;padding-bottom: 5px;padding-left: 2px;padding-right: 5px;}
+
+
+/* N */
+.notaProdotto       {font-size: smaller; color: #FFFF00; margin-top:5px}
+.NotAvaiableDay     {font-family: Verdana, Helvetica, sans-serif;color: #808080;font-size: 9px;background-color: #ffffff;border-bottom:1px solid #f5f5f5}
+.notaCredito        {background-color: #ffff99;color: #663366;}
+.nonConfermato      {background-color: #ff3333;color: #ffffff;border-right: #ffffff 1px solid;border-top: #ffffff 1px solid;border-left: #ffffff 1px solid;border-bottom: #ffffff 1px solid;}
+.nonPagato          {background-color: #FFD5D5;color: #FF886A;border-bottom:1px solid #f5f5f5}
+.note               {font-size:x-small; color:Gray;}
+.note1              {background-color:#f5f5f5; color:Gray;font-size:x-small;}
+.newsLetta          {background-color: #666666;color: #808080;}
+.noBord input       {border-style: none;}
+.newsDaLeggere      {color:#A80000;}
+
+
+
+/* O */
+.ok                 {color:#66cc66;font-weight:bold;}
+.onsale             {border: 1px solid #FFFFFF;background-color: #00CC66;font-variant: small-caps;color: #FFFF99;font-weight: bold;font-size: 10px;}
+.offsale            {border: 1px solid #FFFFFF;background-color: #CC0000;font-variant: small-caps;color: #FFFF99;font-weight: bold;font-size: 10px;}
+
+
+
+/* P */
+.previsionePredisposta      {background-color: #FFFF99;}
+.previsioneNonPredisposta   {background-color: #ffffff;}
+.parent                     {background-color: #669900;color: #ffff99;}
+.pagato                     {background-color: #B0C8FF;color: #002477;border-bottom:1px solid #f5f5f5}
+.pagatoDaProcessare         {background-color: #66cc66;color: #006633;}
+
+
+
+
+/* R */
+.reportBox          {border: 1px solid #6DA0F9;border-right: #000000 1px solid;border-top: #000000 1px solid;border-left: #000000 1px solid;line-height: 20px;border-bottom: #000000 1px solid;background-color: #ffffff;padding-right: 15px;padding-left: 15px;padding-bottom: 15px;padding-top: 15px;margin-top: 15px;font-family:Verdana, Helvetica, sans-serif;font-size:8pt;color:#000066;}
+.reportTit          {border-bottom: #000000 1px solid;}
+.reportFooter       {border-top: #000000 1px solid; }
+.reportRow          {border-bottom: #a9a9a9 1px solid;vertical-align:top;}
+.reportTxt          {font-family:Verdana, Helvetica, sans-serif;font-size:8pt;color:#000066;}
+
+
+.riassunto          {color: #000000;font-weight: bold; background-color:Transparent;border-style:none;}
+.rigatabella        {background-color: #d5d4ce;    font-variant: normal;    color: #2f352a;    font-weight: normal;  font-size: 11px;font-family: Verdana, Arial;line-height: 20px; }
+.rigaSoloBiglietto  {background-color: #ffff99;font-variant: normal;color: #2f352a;font-weight: normal;font-size: 11px;font-family: Verdana, Arial;line-height: 20px;}
+.rigatabella1       {background-color: #ffe5ff;font-variant: normal;color: #2f352a;font-weight: normal;font-size: 11px;font-family: Verdana, Arial;}
+.riga1              {background-color:#f2f2e6;}
+.riga2              {background-color:#e8f1ed;}
+
+.rigaSx {padding: 10px 10px 10px 10px;}
+.rigaDx {}
+
+
+/* T */
+.TabellaTitolo1     {font-size: 8pt;text-transform: none;color: #FFFFFF;font-weight: bold;font-family: Verdana, Arial, Helvetica, sans-serif;font-variant: small-caps;background-color: #3E3E3E;}
+.tabMenu            {background-image:url('../images/tab_113x23_off.gif');width:113px;height:23px;color: #ff0000;border-style:none;}
+.tabMenuSel         {background-image:url('../images/tab_113x23_on.gif');width:113px;height:23px;color: #ffffff;font-weight:bold;border-style:none;}
+.tabsx              {font-family:Verdana, Helvetica, sans-serif;font-size:12px;color:#E0E0E0;}
+.tabdx              {font-family:Verdana, Helvetica, sans-serif;font-size:12px;font-weight:bold;color:#E0E0E0;}
+.tBook1             {font-family: Verdana, Helvetica, sans-serif;font-size: 11px;font-weight: bold;color: #000000;text-decoration: none;}
+.tBook2             {font-family: Verdana, Helvetica, sans-serif;font-size: 11px;color: #000000;text-decoration: none;}
+.tit1               {background-color: #3E3E3E;font-variant: small-caps;color: #ffffff;font-weight: bold;font-size: 10pt;}
+.tit2               {background-color: #f1edff;font-variant: small-caps;color: #808080;font-weight: bold;font-size: 10pt;}
+.titScheda          {font-size: 18px;font-family: 'Arial Black';text-transform: uppercase;letter-spacing: 0.1em;}
+.titAdmin           {font-size: 15px;font-family: 'Arial Rounded MT Bold';text-transform: capitalize;width: 90px;padding-left: 3px;color: #FFFFCC;font-weight: bold;}
+.titHig             {font-size: 16pt;color:Red;}
+.titBooking         {font-family:Verdana, Helvetica, sans-serif;font-size:10px;color:#977629;text-align:center;font-weight:bold; }
+.titGiorno          {background-color:#3E3E3E; color:#ffffff;   border-top-style:solid; border-top-color:transparent; border-top-width:20px}
+.titGiornoNoBorder  {background-color:#3E3E3E; color:#ffffff;}
+.titsez             {font-family:Verdana, Helvetica, sans-serif;font-size:15px;font-weight:bold;}
+.txtbig             {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 16px;font-weight: bold;color: #000000;text-decoration: none;}
+.txt                {font-family:Verdana, Helvetica, sans-serif;font-size:10px;border-color:#d8d8be;border-style:solid;border-width:1px;color:#000000;}
+.txtAdd             {border: 1px solid #666666;color: #666666;background-color: #FFFFCC;}
+.tabTit             {border-bottom-color:Gray;border-bottom-style:solid;border-bottom-width:1px;}
+.TabellaCorpo       {background-color:#f5f5f5;height:25px;padding-left:15px;}
+.titoloReport       {font-weight:bold; font-size:14px; text-align:center}
+.txtUnav            {font-family:Verdana, Helvetica, sans-serif;font-size:10px;color:#000000;}
+
+
+
+/* ID */
+
+#boxLogin           {width: 180px;border: 1px solid #666666;text-align: left;position: absolute;top: 40px;left: 33%;padding:5px 5px 5px 5px;}
+#topDiv             {background-color: #e6e6fa;border: 1px solid #6DA0F9;}
+
+
+
+
+
+/*
+ajax__calendar
+	ajax__calendar_container  style:position: absolute; width: 178px; display: none; visibility: hidden; top: 23px; left: 220px;
+		ajax__calendar_header
+			ajax__calendar_prev
+			ajax__calendar_next
+			ajax__calendar_title
+		ajax__calendar_body
+			ajax__calendar_days
+			ajax__calendar_months
+			ajax__calendar_years
+		ajax__calendar_footer ajax__calendar_today
+*/

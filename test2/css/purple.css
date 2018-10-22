@@ -1,0 +1,83 @@
+
+
+
+
+/* dataview */
+.dataviewHeaderLog, .dataviewHeader {background-repeat: repeat-x;background-color: #ffffff;color: #993399;}
+.dataviewHeaderLog a:link ,.dataviewHeaderLog a:visited,.dataviewHeaderLog a:active,.dataviewHeader a:link ,.dataviewHeader a:visited,.dataviewHeader a:active {color: #993399;}
+.dataviewRow        {background-color: #F4D2FF;color: #993399;}
+.dataviewAlt        {background-color: #FAE8FF;color:#993399;}
+.dataviewPager      {background-color: #FAE8FF;color:#993399;}
+.dataviewFooter     {background-repeat: repeat-x;background-color: #ffffff;color: #993399;}
+/* dataview */
+
+/* stili della pagina booking history */
+.notaCredito        {background-color: #FFFF99;color: #FF9900;}
+.nonConfermato      {background-color: #ff3333;color: #ffffff;border-right: #ffffff 1px solid;border-top: #ffffff 1px solid;border-left: #ffffff 1px solid;border-bottom: #ffffff 1px solid;}
+.nonPagato          {background-color: #F5D2FF;color: #E99BFF;}
+.pagato             {background-color: #993399;color: #F5D2FF;}
+.bookingDeleted     {background-color: #663300;color: #FFF0F0;}
+/* fine stili della pagina booking history */
+
+
+.menuBox        {background-color: #F4D2FF;border-right: #993399 1px solid;border-top: #993399 1px solid;border-left: #993399 1px solid;color: #993399;}
+.menuStatico    {border-right: #993399 1px solid;border-color: #993399;color:#ffffff;}
+
+.menuStatico a:link           {color:#993399;text-decoration:none;}
+.menuStatico a:visited        {color:#993399;text-decoration:none;}
+.menuStatico a:hover          {color:#993399;text-decoration:none;}
+.menuStatico a:active         {color:#993399;text-decoration:none;}
+
+.menuDinamico a:link           {color:#993399;text-decoration:none;}
+.menuDinamico a:visited        {color:#993399;text-decoration:none;}
+.menuDinamico a:hover          {color:#993399;text-decoration:none;}
+.menuStatico a:active         {color:#993399;text-decoration:none;}
+
+ 
+ .menuNav       {background-color: #F5D2FF;border-right: #993399 1px solid;border-top: #993399 1px solid;border-left: #993399 1px solid;border-bottom: #993399 1px solid;color: #993399;}
+ .menuNav a     {color:#993399;}
+ .menuDinamico   {border-right: #993399 1px solid;border-left: #993399 1px solid;border-bottom: #993399 1px solid;border-color: #993399;color: #993399;}
+
+
+
+.add            {background-color: #993399;color: #F5D2FF;}
+.rigaDx         {color: #993399;background-color: #ffffff;}
+.rigaSx         {background-color: #993399;color: #660033;font-weight: bold;}
+
+.cornice1       {color: #993399;background-color: #FAE8FF;border: 1px solid #993399;}
+.cornice        {background-color: #F5F5F5;border: solid 1px #993399;}
+
+
+.gestioneTable  {background-color: #F4EEEC;border: 1px solid #993399;}
+.gestioneTit    {background-color: #993399;color: #F5D2FF;}
+.gestioneTit1   {background-color: #993399;color: #F5D2FF;}
+.gestioneTitGruppo a, .gestioneTitGruppo    {color: #993399;}
+     
+
+.gestioneBox                {background-color: #f0d2ff;border-color:#c5c5c5}
+.gestioneTour               {color: #993399;}
+
+.gestioneDayTit             {background-color: #993399;color: #FFFFCC;}
+.gestioneDayTitGiorno       {background-color: #993399;color: #FFFFCC;}
+
+.gestioneGuides             {background-color: #F5D2FF;color: #993399;}
+.gestioneGuidesTit          {background-color: #F5D2FF;color: #993399;}
+
+.gestioneHeadset            {background-color: #F5D2FF;color: #993399;}
+.gestioneHeadsetTit         {background-color: #F5D2FF;color: #993399;}
+
+/*
+.gestioneBus                {color: #FAE6FF;}
+.gestioneBusTit             {color: #FFA851;}
+*/
+
+.gestioneNote               {background-color: #F5D2FF;color: #993399;}
+.gestioneNoteTit            {background-color: #F5D2FF;color: #993399;}
+
+.gestionePanelTour          {color: #993399;background-color: #FAE6FF;border: 1px solid #993399;}
+.gestioneGrigliaTour        {background-color: Transparent;}
+
+.gestioneGrigliaTour_riga   {background-color: #FAE6FF;color: #993399;}
+.gestioneGrigliaTour_alt    {background-color: #ffffff;color: #993399;}
+.gestioneGrigliaTour_head   {color: #FAE6FF;background-color: #D176D1;}
+.gestioneGrigliaTour_foot   {background-color:#FAE6FF;}

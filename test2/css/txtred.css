@@ -1,0 +1,58 @@
+body { background-image:url(../images/sfondi/stucco.gif);}
+.div_main {background-color:transparent;}
+
+
+/* dataview */
+.dataviewHeaderLog, .dataviewHeader {background-image: url(../images/sfondi/red3.gif); background-repeat:repeat;}
+
+.dataviewPager      {background-image: url(../images/sfondi/stucco.gif);}
+.dataviewFooter     {background-image: url(../images/sfondi/red3.gif);}
+
+
+.add            {background-image: url(../images/sfondi/red2.gif)}
+.menuBox        {background-image: url(../images/sfondi/red1.gif)}
+
+
+.cornice1,.cornice            {background-image: url(../images/sfondi/stucco.gif)}
+
+ 
+ .menuNav       {background-image: url(../images/sfondi/yellow1.gif)}
+ .menuDinamico   {background-image:url(../images/sfondi/yellow5.gif);}
+
+
+
+
+.rigaSx         {background-image: url(../images/sfondi/red1.gif);color:#f5f5f5}
+.rigaDx         {background-image: url(../images/sfondi/yellow6.gif);}
+
+
+
+
+.gestioneTit    {background-image: url(../images/sfondi/red2.gif);}
+.gestioneTit1   {background-image: url(../images/sfondi/red2.gif);color: #FFFFD9;}
+
+     
+
+.gestioneBox                {background-image: url(../images/sfondi/yellow7.gif);}
+
+
+.gestioneDayTit             {background-image: url(../images/sfondi/red2.gif)}
+.gestioneDayTitGiorno       {background-image: url(../images/sfondi/red2.gif)}
+
+.gestioneGuides             {background-image: url(../images/sfondi/red8.gif)}
+.gestioneGuidesTit          {background-image: url(../images/sfondi/red8.gif)}
+
+.gestioneHeadset            {background-image: url(../images/sfondi/red8.gif)}
+.gestioneHeadsetTit         {background-image: url(../images/sfondi/red8.gif)}
+
+
+.gestioneBus                {background-image: url(../images/sfondi/red7.gif)}
+.gestioneBusTit             {background-image: url(../images/sfondi/red7.gif)}
+
+
+.gestioneNote               {background-image: url(../images/sfondi/red8.gif)}
+.gestioneNoteTit            {background-image: url(../images/sfondi/red8.gif)}
+
+
+
+

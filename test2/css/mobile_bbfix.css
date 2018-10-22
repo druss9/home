@@ -1,0 +1,56 @@
+#topbar {
+	position: relative;
+	left: 0;
+	top: 0;
+	width: auto;
+    height:35px;
+    padding-top:10px;
+	margin-bottom: 13px;
+    background-color:#778ca8;
+}
+
+
+#title {
+	position: relative;
+	font-weight: bold;
+	padding: 0 10px;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #fff;
+	
+}
+
+#tributton {
+	position: relative;
+	font-weight: bold;
+	padding: 0 10px;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #fff;
+    border:1px solid #c9c9c9;
+     background-color:#a0abb2;
+
+}
+
+#duobutton {
+	
+     background-color:#a0abb2;
+
+}
+
+#tributton a, #duobutton a
+{
+    margin-right: 3px;
+    margin-left: 3px;
+   
+   
+}
+
+#tributton a:last-child, #tributton a:first-child, #duobutton a:last-child, #duobutton a:first-child {
+	border-left-style:none;
+    border-right-style:none;
+}
+
+

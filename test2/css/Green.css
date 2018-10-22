@@ -1,0 +1,48 @@
+.add                        {background-color: #3D8963;color: #FFFFCC;}
+
+.cornice1                   {color: #003399;background-color: #BFDFBF;border: solid 1px #006633;}
+
+.menuStatico a:link         {color:#ccffcc;text-decoration:none;}
+.menuStatico a:visited      {color:#ccffcc;text-decoration:none;}
+.menuStatico a:hover        {color:#ffff00;text-decoration:none;}
+.menuStatico a:active       {color:#ccffcc;text-decoration:none;}
+
+.menuDinamico a:link        {color:#006633;text-decoration:none;}
+.menuDinamico a:visited     {color:#006633;text-decoration:none;}
+.menuDinamico a:hover       {color:#006633;text-decoration:none;}
+.menuStatico a:active       {color:#006633;text-decoration:none;}
+
+.gestioneTable              {background-color: #BFDFBF;border: 1px solid #006633;}
+.gestioneTit                {background-color: #CD5C5C;color: #ffffff;}
+.gestioneTit1               {background-color: #CD5C5C;color: #E19F9F;}
+.gestioneTitGruppo          {color: #999999; }
+.gestioneBox                {background-color: #A8D5A8; border-color:#c5c5c5}
+.gestioneTour               {color: #006633;font-weight: bold;text-align: left;}
+.gestioneDayTit             {background-color: #006633;color: #FFFFFF;}
+.gestioneDayTitGiorno       {background-color: #006633;color: #FFFFCC;}
+.gestioneGuides             {background-color: #BFDFBF;color: #006633;}
+.gestioneGuidesTit          {color: #3D8963;}
+.gestioneHeadset            {background-color: #BFDFBF;color: #006633;}
+.gestioneHeadsetTit         {color: #3D8963;}
+.gestioneBus                {color: #003300;}
+.gestioneBusTit             {color: #3D8963;}
+.gestioneNote               {background-color: #BFDFBF;color: #006633;}
+.gestioneNoteTit            {color: #3D8963;}
+
+.gestionePanelTour          {color: #006633;background-color: #A8D5A8;border: 1px solid #006633;}
+.gestioneGrigliaTour        {background-color: Transparent;border-color:#E7E7FF;}
+.gestioneGrigliaTour_riga   {background-color: #dcdcdc;color: #5B5B5B;}
+.gestioneGrigliaTour_alt    {background-color: #F7F7F7;color:#5B5B5B;}
+.gestioneGrigliaTour_head   {color: #999999;background-color: #C0C0C0;}
+.gestioneGrigliaTour_foot   {background-color:#C0C0C0;}
+
+
+.menuBox            {background-color: #006633;border-right: #999999 1px solid;border-top: #999999 1px solid;border-left: #999999 1px solid;color:#ffffff;}
+.menuNav            {background-color: #3F8B65;border-right: #999999 1px solid;border-top: #999999 1px solid;border-left: #999999 1px solid;border-bottom: #999999 1px solid;color: #ffffff;}
+.menuNav a          {color:Yellow;}
+.menuDinamico       {background-color: #BFDFBF;border-right: #ff0066 1px solid;border-left: #ff0066 1px solid;border-bottom: #ff0066 1px solid;border-color: #006633;color: #ffffff;}
+.menuDinamico:hover {background-image:url(../images/sfondi/monet.jpg);}
+.menuStatico        {border-right: #ff0066 1px solid;border-color: #999999;color:#ffffff;}
+
+.rigaSx {background-color: #3D8963;color: #FFFFCC;}
+.rigaDx {color: #006633;background-color: #BFDFBF;}

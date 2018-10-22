@@ -1,0 +1,60 @@
+body { background-image:url(../images/sfondi/stucco.gif);}
+.div_main {background-color:transparent;}
+
+
+/* dataview */
+.dataviewHeaderLog, .dataviewHeader {background-image: url(../images/sfondi/stucco.gif); background-repeat:repeat;}
+
+
+
+.dataviewPager      {background-image: url(../images/sfondi/stucco.gif);}
+.dataviewFooter     {background-image: url(../images/sfondi/purple4.gif);}
+
+
+
+.menuBox        {background-image: url(../images/sfondi/purple4.gif)}
+
+
+
+
+ 
+ .menuNav       {background-image: url(../images/sfondi/purple4.gif)}
+ .menuDinamico   {background-image:url(../images/sfondi/purple4.gif);}
+
+
+
+
+.rigaSx         {background-image: url(../images/sfondi/purple4.gif);}
+
+
+
+
+
+.gestioneTit    {background-image: url(../images/sfondi/purple7.gif);}
+.gestioneTit1   {background-image: url(../images/sfondi/purple7.gif);}
+
+     
+
+.gestioneBox                {background-image: url(../images/sfondi/purple4.gif);}
+
+
+.gestioneDayTit             {background-image: url(../images/sfondi/purple7.gif)}
+.gestioneDayTitGiorno       {background-image: url(../images/sfondi/purple7.gif)}
+
+.gestioneGuides             {background-image: url(../images/sfondi/purple4.gif)}
+.gestioneGuidesTit          {background-image: url(../images/sfondi/purple4.gif)}
+
+.gestioneHeadset            {background-image: url(../images/sfondi/purple4.gif)}
+.gestioneHeadsetTit         {background-image: url(../images/sfondi/purple4.gif)}
+
+/*
+.gestioneBus                {color: #FAE6FF;}
+.gestioneBusTit             {color: #FFA851;}
+*/
+
+.gestioneNote               {background-image: url(../images/sfondi/purple4.gif)}
+.gestioneNoteTit            {background-image: url(../images/sfondi/purple4.gif)}
+
+
+
+
